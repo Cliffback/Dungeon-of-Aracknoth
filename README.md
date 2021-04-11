@@ -2,4 +2,4 @@
 
 A branching narrative made by Mathias Eek 
 
-Play the game here: https://mathiaseek.github.io/
+To play the game, download the HTML-file and open it in your browser or with Twine.
